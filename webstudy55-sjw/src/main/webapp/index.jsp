@@ -7,7 +7,6 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
-step1  회원관리 로그인 작업 2233
+step1  회원관리 로그인 작업 2233 쇼핑몰 작업
 </body>
 </html>
