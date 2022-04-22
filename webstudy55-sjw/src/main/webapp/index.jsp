@@ -9,5 +9,6 @@
 </head>
 <body> 
 step1  
+seo-inst step2
 </body>
 </html>
