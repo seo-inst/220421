@@ -7,9 +7,9 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body> 
 step1  
+seo-inst 
 step2
-step3 lyric 
 </body>
 </html>
