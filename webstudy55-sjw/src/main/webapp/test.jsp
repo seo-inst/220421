@@ -7,13 +7,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body> 
-step1  
-seo-inst 
-step2
-step3
-step4
-step5
-step6
+<body>
+1
 </body>
 </html>
