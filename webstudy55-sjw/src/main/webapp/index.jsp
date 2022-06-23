@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body> 
-step1  
+step1     
 seo-inst 
 step2
 step3
